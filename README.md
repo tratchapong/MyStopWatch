@@ -6,3 +6,4 @@ StopWatch in Javscript &amp; html
 This is an count-up stopwatch for intend to support my rubik-solve time-record.
 This App just a first version so that mean it is upgradable.
 
+Thank you
